@@ -8,6 +8,9 @@
 - Pilih tab Network pada devtools
 - Cari profile atau balance lalu pilih Headers scroll kebawah copy semua value Telegram-Data
 
+# AirDrop Family IDN
+- https://t.me/AirDropFamilyIDN
+
 # How to run
 ```
 git clone https://github.com/AirDropFamilyIDN/seed.git
