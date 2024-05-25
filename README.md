@@ -1,0 +1,2 @@
+# seed
+SEED AUTO CLAIM &amp; COMPLETE ALL TASK
