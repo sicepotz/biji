@@ -1,5 +1,7 @@
 # SEED AUTO CLAIM & COMPLETE ALL TASK
 [![AIRDROP FAMILY IDN](https://github.com/AirDropFamilyIDN/seed/blob/main/seed.png)](https://github.com/AirDropFamilyIDN/seed/blob/main/seed.png)
+# Register
+- https://t.me/seed_coin_bot/app?startapp=6953912161
 
 # How to get Telegram-Data
 - Buka web telegram / telegram desktop
